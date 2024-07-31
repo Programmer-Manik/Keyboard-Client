@@ -44,11 +44,11 @@ KBD DEEP is built with a robust tech stack that includes React, Redux, Vite, Typ
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/mhlehri/kbd-deep.git
+   git clone 
    ```
 1. **Clone the Repository of server**
    ```bash
-   git clone https://github.com/mhlehri/kbd-server.git
+   git clone 
    ```
 1. **Frontend Setup**
 
@@ -79,7 +79,7 @@ KBD DEEP is built with a robust tech stack that includes React, Redux, Vite, Typ
 
 ## Usage
 
-Visit the live site at [KBD DEEP](https://kbd-deep.vercel.app/).
+Visit the live site at [KBD DEEP]().
 
 ### Example Usage
 
